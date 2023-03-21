@@ -1,4 +1,4 @@
-# BrickAPI (Richard Joseph for CACI)
+# BrickAPI
 
 Let me first apologise as the code I'm submitting here fulfils *none* of the tasks specified by CACI - I am under no illusions regarding the implications of that concerning the role. 
 
@@ -19,7 +19,5 @@ Spring Boot stops immediately after start up:
 Again, I'd like to apologise for the 'lag', I do admit to a little 'ring rust' with Java/my previous local environment (IJ2019/Java 11, had to upgrade), **I would be happy for someone amongst you to tell me what I was doing wrong or simply that this code worked on your own machine(s)**.
 
 Regards
-
-Richard Joseph
 
 [springinit]: https://start.spring.io/#!type=gradle-project&language=java&platformVersion=3.0.4&packaging=jar&jvmVersion=17&groupId=com.fonotext&artifactId=brickapi&name=brickapi&description=Brick%20API%20Demo%20project%20for%20Spring%20Boot&packageName=com.fonotext.brickapi
